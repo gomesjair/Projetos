@@ -1,0 +1,76 @@
+
+body{
+    width: 100vw;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://entreterse.com.br/wp-content/uploads/2019/12/6-underground-scene.png');
+}
+video{
+    width: 100%;
+}
+td{
+    padding: 5px;
+}
+table td{
+    border: solid 1px #ddd;
+}
+table tr:hover{
+    background-color: #111;
+    cursor: pointer;
+}
+select{
+    width: 100%;
+    text-align: center;
+}
+option{
+    text-align: center;
+}
+table{
+    opacity: 70%;
+    background-blend-mode: hard-light;
+    background-color: #000;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px 0px 0px 10px;
+    border-spacing: 1px;
+    border: solid 1px #ddd;
+    color: #fff;
+    margin-top: 5em;
+}
+strong{
+    font-weight: 200;
+    font-size: 9pt;
+}
+.table-title strong{
+    font-weight: bold;
+    font-size: 14pt;
+}
+*{
+    font-family: Google Sans;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    user-select: none;
+}
+.app .topbar{
+    text-align: center;
+    width: 100vw;
+    opacity: 70%;
+    padding: 5px;
+    background-color: #000000;
+    box-shadow:  0px 12px 10px 0px #000;
+    color: red;
+}
+.app .topbar-title{
+    opacity: 100%;
+    margin-left: 10px;
+}
+@font-face{
+    font-family: "Google Sans";
+    src: url('https://raw.githubusercontent.com/sahibjotsaggu/Google-Sans-Fonts/master/GoogleSans-Regular.ttf');
+}

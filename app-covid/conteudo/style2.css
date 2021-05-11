@@ -1,0 +1,63 @@
+body{
+    font-family: Days, Helvetica;
+    background-color: lightcyan;
+    color:dark blue; 
+} 
+h1  {   
+     color:brown;
+}
+ 
+
+
+p{
+color:purple;
+
+}
+
+
+
+ul li {   
+color:darkgreen; 
+font-weight: bold;
+} 
+
+
+*{   
+font-family: Arial, Helvetica, sans-serif;}      
+h2{
+color:darkturquoise;
+font-weight: bold;   
+
+}       
+
+
+
+h3{ 
+color:blue;
+} 
+body {
+background-image:   url("https://image.freepik.com/fotos-gratis/resumo-de-papel-textura-azul-para-plano-de-fundo_55716-20.jpg");
+}  
+.subtitle {color:darkred}
+
+
+
+.btn1{
+text-decoration: none;
+padding: 10px;
+background-color:darkcyan;
+color:black;   
+width: 150px;
+height: 40px;
+border: 3px black solid;
+border-radius: 15px;
+}
+.btn1:hover{
+background-color:blueviolet;
+color:beige;   
+width: 150px;
+height: 40px;
+border: 3px green solid;
+border-radius: 15px;
+cursor:pointer;
+}    

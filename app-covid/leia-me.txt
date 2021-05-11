@@ -1,0 +1,10 @@
+Vai em login.html
+Entra na página de Login 
+informaçãoes necessárias logo abaixo 
+Usúario:fatec
+Senha:fatec2407
+click em Entrar para visualizar o site sobre o COVID
+
+Esse projeto foi usado as linguagens:javascript, html, css.
+
+ESPERO QUE GOSTEM!!!
