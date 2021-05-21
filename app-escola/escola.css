@@ -74,7 +74,3 @@ strong{
     font-family: "Google Sans";
     src: url('https://raw.githubusercontent.com/sahibjotsaggu/Google-Sans-Fonts/master/GoogleSans-Regular.ttf');
 }
-@media screen and (min-width:
-1024px) {
- #main { min-width: 1000px; }
-}
